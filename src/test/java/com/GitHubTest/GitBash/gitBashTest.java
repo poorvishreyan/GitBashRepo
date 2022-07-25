@@ -8,6 +8,9 @@ public class gitBashTest {
 		System.out.println("Hi");
 		System.out.println("how are you");
 		System.out.println("iam fine");
+		System.out.println("good afternoon");
+		System.out.println("Hey");
+		
 	}
 
 }
