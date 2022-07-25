@@ -10,6 +10,7 @@ public class gitBashTest {
 		System.out.println("iam fine");
 		System.out.println("good afternoon");
 		System.out.println("Hey");
+		System.out.println("bye");
 		
 	}
 
